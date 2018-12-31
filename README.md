@@ -1,4 +1,6 @@
 # Hangman_C
-Second Semester Miniproject.
-Same as hangman_python except for the interface.
-Enjoy Playing.
+C Miniproject.
+
+## Execution Command
+$ gcc -Wall -o hangman game.c
+$ ./hangman
